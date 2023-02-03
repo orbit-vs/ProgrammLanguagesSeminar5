@@ -1,0 +1,15 @@
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/bin/Debug/net6.0/Seminar5.2
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/bin/Debug/net6.0/Seminar5.2.deps.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/bin/Debug/net6.0/Seminar5.2.runtimeconfig.json
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/bin/Debug/net6.0/Seminar5.2.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/bin/Debug/net6.0/Seminar5.2.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/obj/Debug/net6.0/Seminar5.2.csproj.AssemblyReference.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/obj/Debug/net6.0/Seminar5.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/obj/Debug/net6.0/Seminar5.2.AssemblyInfoInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/obj/Debug/net6.0/Seminar5.2.AssemblyInfo.cs
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/obj/Debug/net6.0/Seminar5.2.csproj.CoreCompileInputs.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/obj/Debug/net6.0/Seminar5.2.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/obj/Debug/net6.0/refint/Seminar5.2.dll
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/obj/Debug/net6.0/Seminar5.2.pdb
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/obj/Debug/net6.0/Seminar5.2.genruntimeconfig.cache
+/Users/artembelokolenko/Documents/учеба/ProgrammLanguagesSeminar5/Seminar5.2/obj/Debug/net6.0/ref/Seminar5.2.dll
